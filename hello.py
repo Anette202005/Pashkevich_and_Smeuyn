@@ -1,3 +1,2 @@
-print("Hello, World!")
-print("Привет, Мир!")
-print("Изменение")
+print('New text')
+
